@@ -1,0 +1,1 @@
+The small program in Windows is used to automatically choose a different wallpaper when the screen is rotated. It is a utility aimed at TabletPC, offering simple solution with almost no battery consumption.
